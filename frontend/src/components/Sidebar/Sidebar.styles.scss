@@ -1,0 +1,12 @@
+.sidebar-header {
+  background-color: rgb(238, 237, 237);
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 15px;
+  align-items: center;
+}
+.sidebar {
+  overflow-y: scroll;
+  height: 100%;
+}

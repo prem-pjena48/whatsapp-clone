@@ -1,0 +1,23 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background: -webkit-linear-gradient(
+    top,
+    #429789,
+    #429789 20%,
+    white 20%,
+    white
+  );
+}
+.App {
+  display: grid;
+  padding: 20px 60px;
+  place-items: center;
+  height: 95vh;
+  box-sizing: border-box;
+}
